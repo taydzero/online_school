@@ -47,8 +47,8 @@
 - Контейнеризированный запуск
 
 ## Скриншоты проекта
-<img width="1440" height="920" alt="2026-02-20_15-51-05" src="https://github.com/user-attachments/assets/16d20b50-75ae-4903-92a6-2e82aca53aee" />
-<img width="1440" height="920" alt="2026-02-20_15-51-51" src="https://github.com/user-attachments/assets/05e18429-411e-4c2d-a0af-63dd6e81c964" />
-<img width="1440" height="920" alt="2026-02-20_15-54-44" src="https://github.com/user-attachments/assets/e16f7714-c7f3-4887-8969-53ef8d0ca6f5" />
-<img width="1440" height="920" alt="2026-02-20_15-55-58" src="https://github.com/user-attachments/assets/7403de38-c585-4ab9-b4ba-bcab79a56009" />
-<img width="1440" height="920" alt="2026-02-20_15-56-13" src="https://github.com/user-attachments/assets/12a0c8ce-ba7c-4ea2-9489-e889d83c619f" />
+<img width="1920" height="1039" alt="2026-02-20_15-51-05" src="https://github.com/user-attachments/assets/f4ef70bc-18c0-4326-b67f-31caa79cb597" />
+<img width="1920" height="1040" alt="2026-02-20_15-51-51" src="https://github.com/user-attachments/assets/30e42b73-6158-4374-97e1-108560a4d668" />
+<img width="1920" height="1040" alt="2026-02-20_15-54-44" src="https://github.com/user-attachments/assets/5dadbdb9-f776-4802-8f84-22545dc08d40" />
+<img width="1920" height="1040" alt="2026-02-20_15-55-58" src="https://github.com/user-attachments/assets/41ad03ed-9a52-4419-b3c6-946b7ab6141d" />
+<img width="1920" height="1040" alt="2026-02-20_15-56-13" src="https://github.com/user-attachments/assets/cc0a35ef-325c-496c-840d-e4a69d3805ea" />
